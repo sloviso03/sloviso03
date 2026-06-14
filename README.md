@@ -6,13 +6,13 @@ On the systems side, I'm actively learning C and C++, with a growing interest in
 
 I'm a strong believer in free and open source software and a big fan of the GNU project.
 
-**Skills**
+**Skills:**
 Java, Spring Boot, REST APIs, Clean Architecture, PostgreSQL, MySQL, SQL Server, C, C++
 
-**Environment**
+**Environment:**
 NixOS, Neovim, Git, Docker
 
 Check my NixOS config (includes Neovim setup): https://github.com/sloviso03/nixos-config
 
-**Contact**
+**Contact:**
 sloviso03@protonmail.com
