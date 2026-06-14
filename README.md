@@ -12,7 +12,8 @@ Java, Spring Boot, REST APIs, Clean Architecture, PostgreSQL, MySQL, SQL Server,
 **Environment:**
 NixOS, Neovim, Git, Docker
 
-Check my NixOS config (includes Neovim setup): https://github.com/sloviso03/nixos-config
-
 **Contact:**
 sloviso03@protonmail.com
+
+Check my NixOS config (includes Neovim setup): https://github.com/sloviso03/nixos-config
+
