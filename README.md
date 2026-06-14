@@ -1,16 +1,18 @@
-## Hi there 👋
+## Santiago Lovisotto
 
-<!--
-**sloviso03/sloviso03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer and systems programming enthusiast.
+On the backend side, I build REST APIs with Java and Spring Boot, following clean architecture principles.
+On the systems side, I'm actively learning C and C++, with a growing interest in embedded systems, firmware and operating systems internals.
 
-Here are some ideas to get you started:
+I'm a strong believer in free and open source software and a big fan of the GNU project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+Java, Spring Boot, REST APIs, Clean Architecture, PostgreSQL, MySQL, SQL Server, C, C++
+
+**Environment**
+NixOS, Neovim, Git, Docker
+
+Check my NixOS config (includes Neovim setup): https://github.com/sloviso03/nixos-config
+
+**Contact**
+sloviso03@protonmail.com
